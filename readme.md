@@ -1,5 +1,6 @@
+
 Markdown CheatSheet <a name ="TOP"></a>
-====================
+
 
 - - - -
 # Heading 1 #
@@ -156,3 +157,10 @@ Emoji:
 :mask:
 
 Yada Lakhonjun 642115012
+
+# INFORMATION #
+
+    NAME :  PHACHARANAN THUMJAIKUL
+
+    STUDENT ID :  642115026
+
